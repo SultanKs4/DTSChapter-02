@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chapter02starter</string>
+    <string name="title">Banana Brain</string>
+    <string name="artist">DIE ANTWORD</string>
+    <string name="menu">open menu</string>
+    <string name="cursongimg">img current song</string>
+    <string name="prevsongimg">img previous song</string>
+    <string name="fwdsongimg">img forward song</string>
+    <string name="wave">img wave</string>
+    <string name="play">start/pause song</string>
+    <string name="prev">prev song</string>
+    <string name="fwd">next song</string>
+    <string name="speaker">mute/unmute</string>
+    <string name="repeat">repeat on/off</string>
+</resources>
